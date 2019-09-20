@@ -1,0 +1,9 @@
+git branch
+git branch student names-this creates an ew branch
+git checkout sudent names-this switches branches
+git push
+ -u origin sudent names
+ git merge sudent names
+ git branch -d sudent names
+ code .
+ git-scm.com
