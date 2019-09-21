@@ -7,3 +7,5 @@ git push
  git branch -d sudent names
  code .
  git-scm.com
+ git add
+ 
